@@ -1,2 +1,2 @@
-# Projekt_1
+# Pospisil_Projekt_1
 sql_projekt
